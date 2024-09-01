@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agriaiguide/static/css/main.d1d42013.css",
+    "main.js": "/agriaiguide/static/js/main.82a10f6b.js",
+    "index.html": "/agriaiguide/index.html",
+    "main.d1d42013.css.map": "/agriaiguide/static/css/main.d1d42013.css.map",
+    "main.82a10f6b.js.map": "/agriaiguide/static/js/main.82a10f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d42013.css",
+    "static/js/main.82a10f6b.js"
+  ]
+}
